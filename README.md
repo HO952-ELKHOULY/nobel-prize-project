@@ -1,7 +1,7 @@
 #  Nobel Prize Data Analysis
 
 This project analyzes Nobel Prize winners data — cleaning, transforming, and visualizing insights.
-
+![Nobel Data Visualization](figure.png)
 ##  Features
 - Data cleaning and validation
 - Age calculation at time of award
@@ -27,3 +27,4 @@ This project analyzes Nobel Prize winners data — cleaning, transforming, and v
 ---
 
 Author: [Hussam Ashraf Shaaban Bakry]
+
